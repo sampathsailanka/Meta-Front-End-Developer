@@ -12,6 +12,7 @@ Here's a high-level overview of how a web server works:
     <li>
         <u><b>Client sends a request:</b></u>   When you type a URL (Uniform Resource Locator) in your web browser or click on a link, it sends a request to the web server. The request contains information such as the HTTP method (e.g., GET, POST), headers, and sometimes data.
     </li>
+
     <li>
         <u><b>Server receives the request:</b></u>  The web server software running on the server machine receives the incoming request. Common web server software includes Apache HTTP Server, Nginx, Microsoft IIS (Internet Information Services), and Node.js (which is a runtime environment for JavaScript).
     </li>
